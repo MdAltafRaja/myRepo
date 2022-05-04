@@ -1,2 +1,2 @@
 # myRepo
-This is my repository
+This is my repository and this is my first day in git
